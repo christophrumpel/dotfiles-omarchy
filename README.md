@@ -27,7 +27,7 @@ mv ~/.config/hypr/bindings.lua ~/dotfiles/config/hypr/
 
 ## Tracked
 
-- `config/alacritty`, `config/foot`, `config/ghostty`, `config/kitty` — terminals (font size 26)
+- `config/alacritty`, `config/foot`, `config/ghostty`, `config/kitty` — terminals (font size 18)
 
 Not yet tracked, likely next: `hypr/` (keybindings, monitors, looknfeel),
 `omarchy/shell.json` (bar and widgets), `starship.toml`, `tmux/`.
