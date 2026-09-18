@@ -5,7 +5,7 @@ Omarchy config that survives reinstalls and version bumps.
 ## Setup on a fresh machine
 
 ```bash
-git clone <this-repo> ~/dotfiles
+git clone https://github.com/christophrumpel/dotfiles-omarchy.git ~/dotfiles
 ~/dotfiles/install.sh
 omarchy restart terminal
 ```
